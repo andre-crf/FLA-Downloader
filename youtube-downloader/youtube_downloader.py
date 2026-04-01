@@ -45,7 +45,7 @@ class YoutubeDownloader(tk.Tk):
         title_frame = tk.Frame(self, bg=BG, pady=20)
         title_frame.pack(fill="x", padx=30)
 
-        tk.Label(title_frame, text="▶  FLA", font=("Helvetica", 22, "bold"),
+        tk.Label(title_frame, text="FLA", font=("Helvetica", 22, "bold"),
                  fg=ACCENT, bg=BG).pack(side="left")
         tk.Label(title_frame, text=" Downloader", font=("Helvetica", 22, "bold"),
                  fg=TEXT, bg=BG).pack(side="left")
