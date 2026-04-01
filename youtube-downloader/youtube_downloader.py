@@ -74,7 +74,6 @@ class YoutubeDownloader(tk.Tk):
         self._section(right, "Formato")
         self._dropdown(right, self.formato, ["MP4", "MP3 (só áudio)", "WEBM", "MKV"])
 
-        # ── Pasta destino ──
         self._section(card, "Pasta de destino")
         pasta_row = tk.Frame(card, bg=CARD)
         pasta_row.pack(fill="x", padx=20, pady=(0, 20))
