@@ -24,7 +24,7 @@ A modern YouTube video and playlist downloader with a dark-themed GUI built with
 
 2. Install the required packages:
 ```bash
-pip install yt-dlp
+pip install -r requirements.txt
 ```
 
 3. Install ffmpeg (required for video processing):
