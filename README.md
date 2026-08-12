@@ -1,22 +1,4 @@
-# FLA Downloader
 
-A modern YouTube video and playlist downloader with a dark-themed GUI built with Python, tkinter, and yt-dlp.
-
-## Features
-
-- Download videos from YouTube
-- Download entire playlists
-- Multiple quality options: 4K, 1080p, 720p, 480p, 360p, or best available
-- Multiple formats: MP4, MP3 (audio only), WEBM, MKV
-- Custom destination folder selection
-- Progress tracking with speed and ETA
-- Modern dark theme UI
-
-## Requirements
-
-- Python 3.7+
-- yt-dlp
-- ffmpeg (required for merging video/audio or converting to MP3)
 
 ## Installation
 
