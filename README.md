@@ -14,16 +14,5 @@ pip install -r requirements.txt
    - **macOS**: `brew install ffmpeg`
    - **Linux**: `sudo apt install ffmpeg` or your distro's package manager
 
-## Usage
 
-Run the application:
-```bash
-python youtube-downloader/youtube_downloader.py
-```
-
-Or simply double-click the file if Python is associated with .py files.
-
-## License
-
-For personal use only.
 
